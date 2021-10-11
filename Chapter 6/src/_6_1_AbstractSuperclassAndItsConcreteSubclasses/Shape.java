@@ -1,7 +1,7 @@
 package _6_1_AbstractSuperclassAndItsConcreteSubclasses;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public abstract class Shape {
