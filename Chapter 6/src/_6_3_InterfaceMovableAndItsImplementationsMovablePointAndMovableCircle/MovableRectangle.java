@@ -1,7 +1,7 @@
 package _6_3_InterfaceMovableAndItsImplementationsMovablePointAndMovableCircle;
 /*
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  * 
  */
 public class MovableRectangle implements Movable {
